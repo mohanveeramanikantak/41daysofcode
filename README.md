@@ -38,20 +38,26 @@ Challenges (List):
 24. Sum of elements using arrays
 25. Sort array elements
 26. Remove duplicate elements
+
 ##Pointers:
+
 27. Simple pointer programs
 28. Memory management
 29. Array of pointers
 30. Pointer arithmetic
 31. Pointer to a function
 32. Null pointers
+
 ##Recursion:
+
 33. Adding two numbers recursively
 34. Factorial using recursion
 35. Fibonacci series using recursion
 36. Sum of first N numbers recursively
 37. Palindrome check using recursion
+
 ##File Handling:
+
 38. List files in a directory
 39. File size & Write to a file
 40. Reverse file content
