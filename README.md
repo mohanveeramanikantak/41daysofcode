@@ -62,8 +62,10 @@ Challenges (List):
 39. File size & Write to a file
 40. Reverse file content
 
-##Projects
-41. 2 Project In C 
+41. Projects
+
+1.1 Library Management System Project 
+1.2 Tic-Tac-Toe Game Project1
 
 ##Contribution:
 
