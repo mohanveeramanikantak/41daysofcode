@@ -69,7 +69,7 @@ Challenges (List):
 
 ##Contribution:
 
-Feel free to fork this repository, attempt the challenges, and share your solutions! Let's learn C together.
+Feel free to fork this repository, attempt the challenges, and share your solutions! Let's learn C together...
 
 Check Here /
 https://github.com/mohanveeramanikantak/41daysofcode
